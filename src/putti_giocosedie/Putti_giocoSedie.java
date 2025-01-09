@@ -8,7 +8,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author cristian
+ * @author cristian Putti
  */
 public class Putti_giocoSedie {
  private final static int NUMSEDIE = 15;
