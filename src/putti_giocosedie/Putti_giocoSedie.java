@@ -32,8 +32,6 @@ public class Putti_giocoSedie {
 	for (int i = 0; i < NUMSEDIE + 1; i++) {
 		array[i] = new Partecipante(sedie);
                 //System.out.println("Sto facendo partire il thread n." + array[i].getId());
-                logger.info("Sto facendo partire il thread id: " + array[i].getId()+" name: "+array[i].getName()+"\n");
-                array[i].start();
                 }
 	}
     }
