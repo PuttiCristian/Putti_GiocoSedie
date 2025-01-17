@@ -31,6 +31,7 @@ public class Putti_giocoSedie {
 	Partecipante array[] = new Partecipante[NUMSEDIE+1];
 	for (int i = 0; i < NUMSEDIE + 1; i++) {
 		array[i] = new Partecipante(sedie);
+                array[i].start();
                 //System.out.println("Sto facendo partire il thread n." + array[i].getId());
                 }
 	}

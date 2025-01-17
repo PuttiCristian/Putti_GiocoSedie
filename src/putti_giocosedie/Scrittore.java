@@ -27,13 +27,12 @@ public class Scrittore {
      * @param id
      * @param posto
      */
-    public void scrivi(long id, int posto){
+    public synchronized void scrivi(long id, int posto){
         BufferedWriter br=null;
         
         try {
             //1) apro il file
-            br = new BufferedWriter(
-                    new FileWriter(nomeFile));
+             br = new BufferedWriter(new FileWriter(nomeFile, true));
             //2) scrivo nel buffer
             br.write("il giocatore: "+id+ "si è seduto nel posto"+posto);
             br.write("\n\r");

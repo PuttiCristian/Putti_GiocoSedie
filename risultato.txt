@@ -1,2 +1,17 @@
-File in output
+il giocatore: 36si è seduto nel posto14
+il giocatore: 26si è seduto nel posto0
+il giocatore: 29si è seduto nel posto1
+il giocatore: 30si è seduto nel posto2
+il giocatore: 25si è seduto nel posto3
+il giocatore: 35si è seduto nel posto4
+il giocatore: 37si è seduto nel posto5
+il giocatore: 34si è seduto nel posto6
+il giocatore: 33si è seduto nel posto7
+il giocatore: 36si è seduto nel posto8
+il giocatore: 32si è seduto nel posto9
+il giocatore: 28si è seduto nel posto10
+il giocatore: 31si è seduto nel posto11
+il giocatore: 40si è seduto nel posto12
+il giocatore: 38si è seduto nel posto13
+il giocatore: 27si è seduto nel posto14
 
